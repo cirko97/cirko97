@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cirko97
 - 👀 I’m interested in Software/Web development
-- 🌱 I’m currently learning html, css, bootstrap, javascript, jQuery, nodeJs, ejs, mongoDb
+- 🌱 I’m currently learning html, css, bootstrap, javascript, jQuery, nodeJS, ejs, mongoDb, postgreSQL, python, react
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: cirkoviclazar1997@gmail.com
 
