@@ -31,20 +31,6 @@ Welcome to my GitHub profile! I'm a Power Platform / SharePoint developer passio
 ![image](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![image](https://img.shields.io/badge/Power%20Platform-902c86?style=for-the-badge)
 
-![image](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/media/data-platform-cds-intro/platform.png)
-
-## 📈 GitHub Stats
-
-!Your GitHub stats
-!Top Languages
-!GitHub Contribution Graph
-
-## 📫 Connect with Me
-
-!LinkedIn
-!Twitter
-!Personal Website
-
 
 <!---
 cirko97/cirko97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
